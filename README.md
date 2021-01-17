@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### 你好 👋
+很高兴认识你，你可以称呼我为“小白”
+ - 2021新年快乐！！😄
+ - 打算在今年学习一门编程语言🌱
+### 目前在做 🔭
+ - Minecraft服务器
+ -- 可点击[此处](https://skeletoncold.github.io/server/)访问页面
+ - CU数据包
 <!--
 **SkeletonCold/SkeletonCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
