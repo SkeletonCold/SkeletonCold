@@ -7,7 +7,8 @@
  -- 可点击[此处](https://skeletoncold.github.io/server/)访问页面
  - CU数据包
  
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkeletonCold&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkeletonCold&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SkeletonCold/SkeletonCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
