@@ -6,7 +6,8 @@
  - Minecraft服务器
  -- 可点击[此处](https://skeletoncold.github.io/server/)访问页面
  - CU数据包
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkeletonCold)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 <!--
 **SkeletonCold/SkeletonCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
