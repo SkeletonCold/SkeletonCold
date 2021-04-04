@@ -5,7 +5,7 @@
 ### 目前在做 🔭
  - Minecraft服务器
  -- 可点击[此处](https://skeletoncold.github.io/server/)访问页面
- - CU数据包
+ - 翻译文档
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkeletonCold&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkeletonCold&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
