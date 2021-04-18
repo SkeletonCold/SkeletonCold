@@ -3,8 +3,6 @@
  - 2021新年快乐！！😄
  - 计划在今年学习一门编程语言🌱
 ### 目前在做 🔭
- - Minecraft服务器
- -- 可点击[此处](https://skeletoncold.github.io/server/)访问页面
  - 翻译文档
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkeletonCold&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
