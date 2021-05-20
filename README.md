@@ -3,7 +3,13 @@
  - 2021新年快乐！！😄
  - 计划在今年学习一门编程语言🌱
 ### 目前在做 🔭
- - 翻译文档
+ - Minecraft Mod
+### Hi 👋
+Nict to meet you.
+ - Happy new year 2021！！😄
+ - Plan to learn a Programming language🌱
+### Doing... 🔭
+ - Minecraft Mod
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkeletonCold&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkeletonCold&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
