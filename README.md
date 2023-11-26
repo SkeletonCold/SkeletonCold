@@ -1,15 +1,13 @@
 ### 你好 👋
 很高兴认识你，你可以称呼我为“小白”
- - 2021新年快乐！！😄
- - 计划在今年学习一门编程语言🌱
+姫野星奏最高！
+ - 想学一些乐器
 ### 目前在做 🔭
- - **Nothing**
+ - work,work
 ### Hi 👋
 Nict to meet you.
- - Happy new year 2021！！😄
- - Plan to learn a Programming language🌱
 ### Doing... 🔭
- - Minecraft Mod
+ - work,work
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkeletonCold&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkeletonCold&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
